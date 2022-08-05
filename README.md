@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hisoka28
 - 👀 I’m interested in Python and ML
-- 🌱 I’m currently learning usage of ML in detecting and analysis of structural variants and copy number variants in genes to better understand genetic disorders.
+- 🌱 I’m currently learning usage of ML in detection and analysis of structural variants and copy number variants in genes to better understand genetic disorders.
 - 💞️ I’m looking to collaborate on projects in bioinformatics and genomics.
 - 📫 How to reach me ...
 
